@@ -1,0 +1,14 @@
+Notes on the Leigh Hackspace Code Club Belts Guide
+
+* **Acknowledgement**: This belt scheme is adapted and remixed from the CoderDojo Ireland belts guide, which I found [here](http://kata.coderdojo.com/wiki/Belts)
+
+* I’ve included some other helpful bits of text from some other CoderDojo sources, and blended it with [CodeClub](https://www.codeclub.org.uk/) and [CodeUp!](http://codeupmcr.co.uk/) influences.
+
+* I’ve re-arranged the belts system so there are more grades and so there is more consistency - in the original the lower belts were (I thought) too easy to get, and then the higher belts were excessively hard to get. (Some of the criteria for higher belts made me think that they were aimed at a specific individual in a CoderDojo in Ireland - for example one criterion for a black belt was to have 'an open source project on GitHub with 1 million users’. How would one go about achieving this? It's not something you could 'aim' for, and isn't necessarily a marker of a good coder/teacher. Also, can you ever *really* be sure how many _users_ a GitHub repo has?
+
+* I also felt that the progression of grades didn’t really specify the range of skills I’d expect to see at those levels of proficiency. At higher grades one would expect proficient coding, but also some other skills such as SSH, use of different operating systems, command line, testing, understanding deployment strategies, etc.
+* The colours for belts were also a bit different to those I'd encountered in my own Martial arts experience. I accept that this is often a semi-arbitrary choice and differs among martial arts and dojos, but I went with: white > yellow > orange > green > blue > purple > brown > advanced brown > black. And then a black belt can further progress by ‘time served teaching’ which add Dan to your belt: 1 year = 1st Dan, 2 further years = 2nd Dan, etc.
+
+* I’ve removed reference to USB sticks - firstly, because it costs money, and secondly who wants to be given a load of USB sticks to carry around all the time? And thirdly because it will massively date these belts. Storage is pretty cheap now and will likely get cheaper, so it might look a bit silly that a Black Belt has (“Ooooh”) a 64GB USB stick.
+
+* I was unsure that having different belts for different ‘tracks’ was the right way to do it. For example, in the CoderDojo original, one could be at different belts for different languages/tracks. I thought this would likely cause confusion and make administration more intensive. Also it impeded the idea of the student being able to identify as a given level of seniority, something that is quite nice to be able to do as you progress through martial arts grades. Further - as a Code(Club|Dojo|Up!) leader it helps to be able to distribute teaching and mentorship among the middle and senior grades, and so having each person at a single clear level is helpful.
