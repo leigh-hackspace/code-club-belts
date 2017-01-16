@@ -5,11 +5,18 @@
 
 # General Rules
 
-* No one has a right to a belt - it must be earned. No [grandfather clauses](https://en.wikipedia.org/wiki/Grandfather_clause) exist for the people who run the Code Club / Dojo
+* No one has a right to a belt - it must be earned. No [grandfather clauses](https://en.wikipedia.org/wiki/Grandfather_clause) exist for the people who run the Code Club / Dojo - everyone will need to go through the belts progressively. It's reasonable to consider double-grading (incrementing two belts in one grading) for very experienced people
 * We (mentors, parents and all club members) will help you get there.
 * We will be clear about what is required to get to the next belt level.
 * We will give you feedback for next time if you did not make it.
 * An element of Social Good is desirable - (e.g. mentoring others in the Dojo, making a website for a charity, teach elderly people to use the net, build something for Hackspace etc.)
+
+
+# Indicating which Belt grade someone is on
+
+* CoderDojo Ireland used a series of USB drives with the appropriate coloured  silicone wrist-strap. We are not planning to do this at Leigh Hackspace because of: a) the cost of USB drives, b) the limited real-world utility of USB sticks in a cloud-based world, c) in 10 years time nobody is going to be impressed by even the largest currently-available USB stick, d) USB sticks that are available in multicoloured silicone bands tend to be poor quality and unbranded.
+* Martial Arts schools use actual belts, made of fabric, which are tied around the waist. I'm not sure this is quite right for a Code school either.
+* We are considering just using a simple silicone wrist band, such as those used for charity campaigns, which we could get embossed with 'Leigh Hackspace Code Club'. This keeps it simple, is the kind of thing children might be persuaded to wear, and is low in cost.
 
 
 # Code Belt System
